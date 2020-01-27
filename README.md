@@ -1,24 +1,18 @@
 # Curso de desarrollo en el entorno de trabajo VS-Code 2020
-Este repositorio dispone de los ejercicios del temario asociado al curso VS-Code 2020.
 
-### Descarga el temario del curso ⚙️
+_Este repositorio dispone de los ejercicios del temario asociado al curso VS-Code 2020._
 
-_Descarga el código del curso_
+## Descarga 🔧
 
-```
-inicio > ejecutar > cmd
-```
+_Es necesario descargarse el repositorio para poder seguir los ejercicios del curso. [Aquí](https://github.com/JoseLuisSPAIN/VS-Code/archive/master.zip)_
 
-_Utilizamos el comando de git_
 
-```
-inicio > ejecutar > cmd
-```
-
+_Una vez descargado es necesario descomprimirlo._
 
 ## Construido con 🛠️
-_Estas son algunas de las herramientas utilizadas en el curso_
 
-* [VS-Code](http://www.dropwizard.io/1.0.2/docs/) - Entorno de trabajo.
-* [Python 3.8](https://maven.apache.org/) - Lenguaje de programacion.
-* [GitHub](https://rometools.github.io/rome/) - Respositorio de trabajo.
+_Menciona las herramientas que utilizaste para crear tu proyecto_
+
+* [VS-Code](https://code.visualstudio.com/) - Entorno de trabajo.
+* [Python 3.8](https://www.python.org/) - Lenguaje de programacion para los ejemplos
+* [Github](https://github.com/) - Repositorio de trabajo.
